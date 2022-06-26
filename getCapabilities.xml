@@ -272,7 +272,7 @@
 				<Title>t4_variante_cancun_18062022</Title>
 				<Abstract>GH:t4_variante_cancun_18062022 ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸13</Keyword>
+					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸1</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-87.1545261327565" miny="21.00537915263153" maxx="-86.88648696047258" maxy="21.027325629068688"></LatLonBoundingBox>
@@ -292,7 +292,7 @@
 				<Title>t4_variante_cancun_ddv_18062022</Title>
 				<Abstract>GH:t4_variante_cancun_ddv_18062022 ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸13</Keyword>
+					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸1</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-87.1545957967925" miny="21.00527323183223" maxx="-86.88647369261537" maxy="21.027709726262522"></LatLonBoundingBox>
@@ -312,7 +312,7 @@
 				<Title>t4_reticulas_10062022</Title>
 				<Abstract>GH:t4_reticulas_10062022 ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸13</Keyword>
+					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸1</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-89.02279268926549" miny="20.70242487894557" maxx="-87.07366121262211" maxy="21.048472385393175"></LatLonBoundingBox>
@@ -332,7 +332,7 @@
 				<Title>t4_dibujos_planta_dpp_10062022</Title>
 				<Abstract>GH:t4_dibujos_planta_dpp_10062022 ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸13</Keyword>
+					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸1</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-89.02278568466866" miny="20.702433990134274" maxx="-87.07368042459585" maxy="21.04846560033709"></LatLonBoundingBox>
@@ -352,7 +352,7 @@
 				<Title>t4_continuidad_excavacion_ddv_existente_itz_14062022</Title>
 				<Abstract>GH:t4_continuidad_excavacion_ddv_existente_itz_14062022 ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸13</Keyword>
+					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸1</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-89.02554797581462" miny="20.70216151057728" maxx="-86.88422199719516" maxy="21.085906975065623"></LatLonBoundingBox>
